@@ -1,4 +1,4 @@
-# Wilson-Golf
+# Wilson-Golf Project
 This Project is designed in order to help Wilson make an Online Outlet so testing Custom Golf Fitting 
 
 This Project Prototype was designed and developed by Zair Chaudhry, Muhammad Ijlal, Daecheol Jeong, David Yi, and Ralph Estephan
